@@ -1,0 +1,7 @@
+{
+  "name": "gym mehdi",
+  "description": "نظام متكامل لإدارة النادي الرياضي مدعوم بذكاء Gemini (Nano Banana) لتحليل التمارين والوجبات وتخطيط التدريبات.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
